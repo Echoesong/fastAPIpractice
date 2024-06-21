@@ -1,0 +1,57 @@
+# Python
+*.py[cod]
+__pycache__/
+*.so
+
+# Virtual environments
+env/
+venv/
+ENV/
+ENV.bak/
+venv.bak/
+
+# Editor specific files
+.vscode/
+.idea/
+
+# macOS specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
+Desktop.ini
+
+# Python packaging
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+bin/
+var/
+sdist/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+*.pyc
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VS Code specific
+.vscode/
+
+# PyCharm specific
+.idea/
+
+# Environments
+.env
+*.env
+
+# Other
+.mypy_cache/
+.dmypy.json
+dmypy.json
